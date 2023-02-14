@@ -1,4 +1,4 @@
-# **Desafio Estágio Back-End - Lista de Pokémons**
+# **Desafio Back-End - Lista de Pokémons**
 
 ## Descrição do Projeto
 
